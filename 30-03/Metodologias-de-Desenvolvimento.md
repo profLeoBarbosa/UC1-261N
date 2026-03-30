@@ -89,5 +89,90 @@ Escolher a metodologia de desenvolvimento de software correta é crucial para o 
 
 ---
 
-**Atividade:**
-- Divida a turma em dois grupos. Um grupo deve defender as metodologias tradicionais e o outro as metodologias ágeis. No final, promova um debate para comparar os prós e contras de cada abordagem.
+## Atividade — Metodologias de Desenvolvimento
+
+Dividam-se nos grupos já existentes.
+
+Cada grupo deve escolher UMA metodologia:
+
+👉 pode ser ágil ou tradicional
+
+---
+
+## Objetivo
+
+Criar uma apresentação em slides explicando a metodologia escolhida.
+
+---
+
+## O que deve conter
+
+- Como a metodologia funciona  
+- Como o trabalho é organizado  
+- Pontos positivos  
+- Pontos negativos  
+- Demais explicações que o grupo achar necessário
+
+---
+
+## Apresentação
+
+Cada grupo irá apresentar para a turma.
+
+👉 Tempo sugerido: 5 a 10 minutos
+
+---
+
+## Metodologias Tradicionais
+
+Cascata (Waterfall)  
+Processo sequencial onde cada etapa depende da anterior.
+
+Modelo V  
+Extensão do cascata com foco em testes em cada etapa.
+
+Modelo Incremental  
+Desenvolvimento em partes, mas com planejamento definido.
+
+Modelo Espiral  
+Desenvolvimento em ciclos com foco em análise de riscos.
+
+RUP (Rational Unified Process)  
+Metodologia estruturada com fases bem definidas e documentação forte.
+
+---
+
+## Metodologias Ágeis
+
+Scrum  
+Divisão do trabalho em ciclos curtos com entregas frequentes.
+
+Kanban  
+Organização visual de tarefas em colunas (a fazer, fazendo, feito).
+
+XP (Extreme Programming)  
+Foco em qualidade de código, testes e colaboração.
+
+Lean Software Development  
+Foco em eliminar desperdícios e gerar valor.
+
+Crystal  
+Metodologia leve e adaptável ao tamanho da equipe.
+
+DSDM (Dynamic Systems Development Method)  
+Foco em entrega rápida e participação do usuário.
+
+FDD (Feature Driven Development)  
+Desenvolvimento baseado em pequenas funcionalidades.
+
+AUP (Agile Unified Process)  
+Versão ágil do RUP com menos burocracia.
+
+ScrumBan  
+Combinação de Scrum com Kanban.
+
+SAFe (Scaled Agile Framework)  
+Aplicação de ágil em grandes organizações.
+
+LeSS (Large Scale Scrum)  
+Adaptação do Scrum para múltiplas equipes.

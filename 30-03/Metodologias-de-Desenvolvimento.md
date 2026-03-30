@@ -121,15 +121,23 @@ Cada grupo irá apresentar para a turma.
 
 👉 Tempo sugerido: 5 a 10 minutos
 
----
 
-Gabriel — Modelo Espiral
-Dionatan — Scrum
-Arthur — RUP (Rational Unified Process)
-Will — Kanban
-Emanuel — Modelo Incremental
-Tomas — XP (Extreme Programming)
-Alison — Cascata (Waterfall)
-Tauane — Lean Software Development
-Juliana — FDD (Feature Driven Development)
-Bruno — SAFe (Scaled Agile Framework)
+Gabriel — Modelo Espiral  
+
+Dionatan — Scrum  
+
+Arthur — RUP (Rational Unified Process)  
+
+Will — Kanban  
+
+Emanuel — Modelo Incremental  
+
+Tomas — XP (Extreme Programming)  
+
+Alison — Cascata (Waterfall)  
+
+Tauane — Lean Software Development  
+
+Juliana — FDD (Feature Driven Development)  
+
+Bruno — SAFe (Scaled Agile Framework)  

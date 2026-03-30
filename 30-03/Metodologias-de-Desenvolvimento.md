@@ -123,56 +123,13 @@ Cada grupo irá apresentar para a turma.
 
 ---
 
-## Metodologias Tradicionais
-
-Cascata (Waterfall)  
-Processo sequencial onde cada etapa depende da anterior.
-
-Modelo V  
-Extensão do cascata com foco em testes em cada etapa.
-
-Modelo Incremental  
-Desenvolvimento em partes, mas com planejamento definido.
-
-Modelo Espiral  
-Desenvolvimento em ciclos com foco em análise de riscos.
-
-RUP (Rational Unified Process)  
-Metodologia estruturada com fases bem definidas e documentação forte.
-
----
-
-## Metodologias Ágeis
-
-Scrum  
-Divisão do trabalho em ciclos curtos com entregas frequentes.
-
-Kanban  
-Organização visual de tarefas em colunas (a fazer, fazendo, feito).
-
-XP (Extreme Programming)  
-Foco em qualidade de código, testes e colaboração.
-
-Lean Software Development  
-Foco em eliminar desperdícios e gerar valor.
-
-Crystal  
-Metodologia leve e adaptável ao tamanho da equipe.
-
-DSDM (Dynamic Systems Development Method)  
-Foco em entrega rápida e participação do usuário.
-
-FDD (Feature Driven Development)  
-Desenvolvimento baseado em pequenas funcionalidades.
-
-AUP (Agile Unified Process)  
-Versão ágil do RUP com menos burocracia.
-
-ScrumBan  
-Combinação de Scrum com Kanban.
-
-SAFe (Scaled Agile Framework)  
-Aplicação de ágil em grandes organizações.
-
-LeSS (Large Scale Scrum)  
-Adaptação do Scrum para múltiplas equipes.
+Gabriel — Modelo Espiral
+Dionatan — Scrum
+Arthur — RUP (Rational Unified Process)
+Will — Kanban
+Emanuel — Modelo Incremental
+Tomas — XP (Extreme Programming)
+Alison — Cascata (Waterfall)
+Tauane — Lean Software Development
+Juliana — FDD (Feature Driven Development)
+Bruno — SAFe (Scaled Agile Framework)

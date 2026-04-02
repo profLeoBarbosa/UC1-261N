@@ -95,7 +95,7 @@ Administrador:
 
 ---
 
-# 🔗 <<include>> (Sempre acontece)
+# 🔗 `<<include>>` (Sempre acontece)
 
 Representa uma ação que sempre faz parte de outra.
 
@@ -104,7 +104,7 @@ Representa uma ação que sempre faz parte de outra.
 ### Exemplo
 
 Finalizar compra  
-→ <<include>> Validar pagamento  
+→ `<<include>>` Validar pagamento  
 
 👉 Toda compra precisa validar pagamento.
 
@@ -117,7 +117,7 @@ Finalizar compra
 
 ---
 
-# 🔀 <<extend>> (Às vezes acontece)
+# 🔀 `<<extend>>` (Às vezes acontece)
 
 Representa uma ação opcional.
 
@@ -126,7 +126,7 @@ Representa uma ação opcional.
 ### Exemplo
 
 Finalizar compra  
-← <<extend>> Aplicar cupom  
+← `<<extend>>` Aplicar cupom  
 
 👉 Nem toda compra usa cupom.
 
@@ -144,8 +144,8 @@ Finalizar compra
 - Ator → quem usa o sistema  
 - Caso de uso → o que é feito  
 - Ligação → quem faz o quê  
-- include → sempre acontece  
-- extend → às vezes acontece  
+- `<<include>>` → sempre acontece  
+- `<<extend>>` → às vezes acontece  
 
 ---
 

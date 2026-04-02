@@ -144,8 +144,8 @@ Finalizar compra
 - Ator → quem usa o sistema  
 - Caso de uso → o que é feito  
 - Ligação → quem faz o quê  
-- <<include>> → sempre acontece  
-- <<extend>> → às vezes acontece  
+- include → sempre acontece  
+- extend → às vezes acontece  
 
 ---
 

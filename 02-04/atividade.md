@@ -160,6 +160,7 @@ Criar um diagrama de caso de uso do sistema desenvolvido pelo grupo.
 ## 📌 Instruções
 
 Utilize o sistema que o seu grupo vem desenvolvendo nas aulas anteriores.
+Sugestão de ferramenta: draw.io
 
 ---
 

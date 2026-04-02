@@ -1,6 +1,6 @@
-# UC1 — Diagrama de Caso de Uso (Aula Assíncrona)
+# Diagrama de Caso de Uso (Atividade - Aula Assíncrona)
 
-## 📌 Objetivo da Aula
+## 📌 Objetivo da Atividade
 
 Compreender o que é um diagrama de caso de uso e como utilizá-lo para representar um sistema de forma visual.
 
@@ -44,7 +44,8 @@ Pode ser:
 
 ## 🖼️ Representação do Ator
 
-👉 (Inserir imagem de um boneco representando ator)
+<img width="193" height="275" alt="image" src="https://github.com/user-attachments/assets/ee86b8d3-f3b9-4964-9096-eae027d5b4b7" />
+
 
 ---
 
@@ -64,7 +65,8 @@ Caso de uso é uma ação que pode ser realizada no sistema.
 
 ## 🖼️ Representação do Caso de Uso
 
-👉 (Inserir imagem de um oval com o nome da ação)
+<img width="457" height="283" alt="image" src="https://github.com/user-attachments/assets/1584d527-088e-4606-baf5-dab4b899371b" />
+
 
 ---
 
@@ -88,7 +90,8 @@ Administrador:
 
 ## 🖼️ Representação da Ligação
 
-👉 (Inserir imagem de linha ligando ator ao caso de uso)
+<img width="635" height="464" alt="image" src="https://github.com/user-attachments/assets/0297806d-9b9d-41d4-9575-fd21fe8de5a9" />
+
 
 ---
 
@@ -109,7 +112,8 @@ Finalizar compra
 
 ## 🖼️ Representação do Include
 
-👉 (Inserir imagem de seta tracejada com <<include>>)
+<img width="807" height="181" alt="image" src="https://github.com/user-attachments/assets/84c20eb6-9872-46b2-8b4b-6f38017931e5" />
+
 
 ---
 
@@ -130,7 +134,8 @@ Finalizar compra
 
 ## 🖼️ Representação do Extend
 
-👉 (Inserir imagem de seta tracejada com <<extend>>)
+<img width="851" height="360" alt="image" src="https://github.com/user-attachments/assets/2ee111e3-c246-4620-b354-7db528f63d76" />
+
 
 ---
 
@@ -186,7 +191,7 @@ Enviar o diagrama por e-mail:
 
 ## 📅 Prazo
 
-(Definir em aula)
+23:59 de domingo 05/04
 
 ---
 

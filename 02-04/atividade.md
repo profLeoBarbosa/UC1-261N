@@ -168,8 +168,8 @@ Utilize o sistema que o seu grupo vem desenvolvendo nas aulas anteriores.
 - pelo menos 2 atores  
 - casos de uso bem definidos  
 - ligações corretas entre ator e ação  
-- pelo menos 1 <<include>>  
-- pelo menos 1 <<extend>>  
+- pelo menos 1 `<<include>>`  
+- pelo menos 1 `<<extend>>`  
 
 ---
 

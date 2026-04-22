@@ -112,6 +112,7 @@ Cada sprint deve ter:
 ---
 
 ## 📊 Kanban
+Deve ser feito no https://trello.com/pt-BR
 
 Criem um quadro com:
 
